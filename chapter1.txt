@@ -9,3 +9,7 @@ get the mountains view from the top
 chapter1v2.0
 Using  cleaning agent like harpic to clean the dirt
 finally get down from the mountains
+
+second commit 
+Cleaning completed 
+Mountain climbing done
